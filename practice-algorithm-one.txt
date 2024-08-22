@@ -1,0 +1,57 @@
+- - - - - - - - - - - - - - - - - -  
+Problematica:
+El usuario quiere saber cuantas letras tiene una palabra.
+- - - - - - - - - - - - - - - - - -  
+
+- - - - - - - - - - - - - - - - - -  
+Algoritmo:
+1. Solicitar al usuario que ingrese una palabra.
+2. Contar las letras que hay en esa palabra.
+3. Mostrar cantidad de letras que tiene la palabra ingresada.
+- - - - - - - - - - - - - - - - - -  
+
+- - - - - - - - - - - - - - - - - -  
+Pseudocodigo:
+
+Inicio del programa
+    
+    // Paso 1, solicitar la entrada al usuario.
+    Mostrar mensaje: "Por favor, ingrese una palabra"
+    definir variable palabra_ingresada y asignar el valor de entrada.
+    
+    // Paso 2, contar la cantidad de letras.
+    Definir la variable cantidad_letras y asignarle la longitud longitud de la palabra ingresada.
+
+    // Paso 3, mostrar al usuario el resultado.
+    Mostrar mensaje: f"La {palabra_ingresada} tiene {cantidad_letras} letras"
+
+- - - - - - - - - - - - - - - - - -  
+
+- - - - - - - - - - - - - - - - - -  
+Problem:
+The user wants to know how many letters are in a word.
+- - - - - - - - - - - - - - - - - -  
+
+- - - - - - - - - - - - - - - - - -  
+Algorithm:
+1. Ask the user to enter a word.
+2. Count the letters in that word.
+3. Display the number of letters in the entered word.
+- - - - - - - - - - - - - - - - - -  
+
+- - - - - - - - - - - - - - - - - -  
+Pseudocode:
+
+Program Start
+    
+    // Step 1, prompt the user for input.
+    Display message: "Please enter a word"
+    Define variable `entered_word` and assign the input value.
+    
+    // Step 2, count the number of letters.
+    Define variable `letter_count` and assign it the length of the entered word.
+
+    // Step 3, display the result to the user.
+    Display message: f"The word {entered_word} has {letter_count} letters"
+
+- - - - - - - - - - - - - - - - - -  
